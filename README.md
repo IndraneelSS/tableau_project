@@ -1,5 +1,5 @@
-# tableau_project
-# DATA SOURCES USED:
+# TABLEAU PROJECT
+# Data Sources Used:
 
 1. **Incident Type Dataset**:
    - This dataset comprises various natural disasters and relevant data such as declaration dates, years, counties, and states.
@@ -15,7 +15,7 @@
 
 ---
 
-# PROJECT OVERVIEW:
+# Project Overview:
 
 This project aims to conduct a comprehensive visual exploration of natural disasters and their economic and human impacts in the United States from 2000 to 2020. The study employs data-driven analyses and visualization techniques to elucidate the frequency, severity, regional distribution, and economic consequences of various natural disasters during the specified timeframe.
 
